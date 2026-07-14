@@ -1,7 +1,7 @@
 import { expect } from '@playwright/test';
 import { generateRandomName } from '../helpers/randomString';
 
-export class myPom {
+export class POM {
 
     constructor(page) {
     //Login Elements    
